@@ -1,0 +1,94 @@
+ | wc
+7z x
+7z x -P infected
+apt
+apt autoremove
+apt install
+apt install ./*
+apt purge
+apt remove
+apt update
+apt update -y
+apt upgrade
+apt upgrade -y
+apt-get
+cat
+cat *
+cd
+cd ..
+chmod
+chmod +x
+chmod -x
+chmod 600
+chmod 664
+chmod u+r
+cp
+cp *
+cp -r
+cp ../
+cut
+cut -d ' ' -f 1
+cut -d ',' -f 1
+docker
+docker build
+docker container prune
+docker images
+docker ps
+docker ps -a
+docker run
+docker run -p
+docker stop
+echo
+find
+git
+git add
+git clone
+git mv
+git pull
+git push
+git rm
+git submodule add
+grep
+head
+head -n 20
+kill
+kill -CONT
+kill -STOP
+ls
+ls -a
+ls -l
+ls -la
+make
+man
+mkdir
+mv
+nano
+ping
+ping -f
+ping 1.1.1.1
+pip3
+pip3 -r requirements.txt
+ps
+ps -aux
+pwd
+python3
+rm
+rm -r
+scp
+shred
+split
+ssh
+ssh -p 1024
+tail
+tail -n 20
+touch
+tree
+tree -d
+unzip
+unzip -P infected
+vim
+wc
+wc -l
+wget
+whoami
+zip
